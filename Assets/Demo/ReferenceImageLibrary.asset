@@ -23,7 +23,7 @@ MonoBehaviour:
       m_GuidHigh: 18340213232421831177
     m_Size: {x: 0.1, y: 0.12777779}
     m_SpecifySize: 1
-    m_Name: mouse
+    m_Name: HebelAufAb
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4736536020041012749
@@ -33,5 +33,15 @@ MonoBehaviour:
       m_GuidHigh: 5628842118085434184
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
-    m_Name: mug
+    m_Name: NotAus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4716559922458292064
+      m_GuidHigh: 4041067316545061522
+    m_SerializedTextureGuid:
+      m_GuidLow: 5698352310759861705
+      m_GuidHigh: 5008402010144955464
+    m_Size: {x: 0.1, y: 0.17777778}
+    m_SpecifySize: 1
+    m_Name: AmeiseSteuerung
     m_Texture: {fileID: 0}
